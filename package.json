@@ -1,0 +1,19 @@
+{
+  "name": "fetch-api-data-in-node-js-and-save-in-mongodb-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^6.9.1",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
